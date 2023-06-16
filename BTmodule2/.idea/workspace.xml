@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c25b61f3-fa21-4d76-a366-422e19a00881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTmodule2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce/bai_tap/HienThiLoiChao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce/bai_tap/UngDungChuyenDoiTienTe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduce/bai_tap/UngDungDocSoThanhChu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vonglap/bai_tap/HienThi20SNT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vonglap/bai_tap/hien_thi_cac_loai_hinh/HienThiCacLoaiHinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vonglap/bai_tap/hien_thi_cac_loai_hinh/HienThiCacLoaiHinh2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vonglap/bai_tap/hien_thi_cac_loai_hinh/HienThiCacLoaiHinh3.java" afterDir="false" />
-    </list>
+    <list default="true" id="c25b61f3-fa21-4d76-a366-422e19a00881" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -145,7 +130,7 @@
       <updated>1686744862850</updated>
       <workItem from="1686744864125" duration="7886000" />
       <workItem from="1686839440067" duration="755000" />
-      <workItem from="1686918797426" duration="3800000" />
+      <workItem from="1686918797426" duration="4309000" />
     </task>
     <servers />
   </component>
